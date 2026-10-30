@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
-import { ArrowDown, ArrowUpRight, ShieldCheck, Globe2, Sparkles } from 'lucide-vue-next'
+import {ArrowUpRight, ShieldCheck, Globe2, Sparkles } from 'lucide-vue-next'
 import SiteHeader from './components/SiteHeader.vue'
 import HeroSection from './components/HeroSection.vue'
 import VehicleCard from './components/VehicleCard.vue'
