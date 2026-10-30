@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Elite Auto Gallery
 
 A responsive luxury automotive marketing website built with Vue 3, TypeScript and Vite. The visual direction uses a charcoal-black canvas, champagne-gold accents and editorial typography.
@@ -33,3 +34,6 @@ npm run preview
 Import this repository into Vercel. Framework preset: **Vite**. Build command: `npm run build`. Output directory: `dist`.
 
 This is a frontend demonstration. It does not yet include an inventory backend, authentication, payments or a lead-management database.
+=======
+# elite-auto-gallery
+>>>>>>> f37c6b1c9ff2f4a422adeaf3cfb3213e8f4cf446
